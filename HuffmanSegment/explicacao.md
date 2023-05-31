@@ -4,8 +4,8 @@
 
 # Explicação do desafio:
 
-![Easy Dijkstra Problem](./assets/Huffman.png)
+![Huffman Coding on Segment](./assets/Huffman.png)
 
 # Logs de submissões
 
-#![LogsSubmissao]()
+#![LogsSubmissao](./assets/Log.png)
